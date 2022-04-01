@@ -1,6 +1,6 @@
 ## Curso de progrmación básica
 El repositorio contiene las 3 tareas correspondientes al curso de programación básica y contiene las siguientes directorios:
-###Tarea 1
+### Tarea 1
 Contiene el archivo IMC.js que contiene una función para calcular el IMC y el archivo index.html donde se pide el peso y estatura y se despliega el valor del IMC.
 
 ### Tarea 2
